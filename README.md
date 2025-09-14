@@ -1,16 +1,13 @@
 # base-monitor-app
 
-A simple Base Monitor App using Alchemy APIs to fetch and display on-chain activity (ERC-20, ERC-721, and external transfers) on Base.
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
+[![Built on Base](https://img.shields.io/badge/Built%20on-Base-0052FF?logo=coinbase&logoColor=white)](https://base.org)
+[![Powered by Alchemy](https://img.shields.io/badge/Powered%20by-Alchemy-0f62ff?logo=alchemy&logoColor=white)](https://www.alchemy.com)
 
-## Dashboard Screenshot
-![Dashboard](./7.png)
+A simple **Base Monitor App** using **Alchemy APIs** to fetch and display on-chain activity (ERC-20, ERC-721, and external transfers) on **Base**.
 
 ---
 
-## Getting Started
+## Dashboard Screenshot
 
-### 1. Clone this repository  
-```bash
-git clone https://github.com/solanoas85/base-monitor-app.git
-cd base-monitor-app
-
+![Dashboard](./7.png)
